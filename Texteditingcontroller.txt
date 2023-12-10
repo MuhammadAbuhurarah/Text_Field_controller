@@ -1,0 +1,10 @@
+(Ye stateful widget ma Widget k uper override or os k uper Class extexds k ander ye pass krwana hy)
+(Phly final phr Texteditingcontroller phir Name jo mrzi rkh lo phir equal(=) or agy phr texteditingcontroller())
+
+(1)final TextEditingController namecontroller = TextEditingController();
+
+
+(Or phir Niche Textfield ma ja kr Texteditingcontroller widget lena or agy wo name jo uper hm na rakha ho gaa)
+
+
+(2) textEditingController: namecontroller,
